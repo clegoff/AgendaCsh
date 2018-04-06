@@ -39,7 +39,7 @@ namespace Agenda
         public List<Compte> LesContacts { get => lesContacts; set => lesContacts = value; }
 
         public Compte(int id, String n, String p, String t, String tp, String e, String s, String m, Calendrier c, List<Compte> ct)
-        {//TEST
+        {
             idCompte = id;
             nom = n;
             prenom = p;
