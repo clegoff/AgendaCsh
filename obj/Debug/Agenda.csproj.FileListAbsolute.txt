@@ -18,3 +18,13 @@ C:\Users\clego\Desktop\Agenda\Agenda\bin\Debug\Agenda.exe
 C:\Users\clego\Desktop\Agenda\Agenda\bin\Debug\Agenda.pdb
 C:\Users\clego\Desktop\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
 C:\Users\clego\Desktop\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\clego\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\clego\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\clego\source\repos\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\clego\source\repos\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\clego\source\repos\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\clego\source\repos\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\clego\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\clego\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\clego\source\repos\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\clego\source\repos\Agenda\Agenda\obj\Debug\Agenda.pdb

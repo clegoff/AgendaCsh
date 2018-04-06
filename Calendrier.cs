@@ -15,6 +15,14 @@ namespace Agenda
         private List<Rendezvous> listeRendezVous;
         public List<Rendezvous> ListeRendezVous { get => listeRendezVous; set => listeRendezVous = value; }
 
+        public Calendrier (Compte lc, List<Rendezvous> rv)
+        {
+            leCompte = lc;
+            ListeRendezVous = rv;
+        }
 
+        public Calendrier()
+        {
+        }
     }
 }

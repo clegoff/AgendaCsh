@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ArrayOfCompte xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Compte>
+    <IdCompte>0</IdCompte>
+    <Nom>Cedric</Nom>
+    <Prenom>Legoff</Prenom>
+    <Tel>0111111111</Tel>
+    <Tel_pro />
+    <Email>c.legoffpro@gmail.com</Email>
+    <Service />
+    <LeCalendrier />
+    <LesContacts />
+  </Compte>
+  <Compte>
+    <IdCompte>0</IdCompte>
+    <Nom>Oceane</Nom>
+    <Prenom>Delafond</Prenom>
+    <Tel>0222222222</Tel>
+    <Tel_pro />
+    <Email>oc@gmail.com</Email>
+    <Service />
+    <LeCalendrier />
+    <LesContacts />
+  </Compte>
+  <Compte>
+    <IdCompte>0</IdCompte>
+    <Nom>Laura</Nom>
+    <Prenom>Lesdema</Prenom>
+    <Tel>0333333333</Tel>
+    <Tel_pro />
+    <Email>la@gmail.com</Email>
+    <Service />
+    <LeCalendrier />
+    <LesContacts />
+  </Compte>
+</ArrayOfCompte>

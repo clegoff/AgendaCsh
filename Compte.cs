@@ -51,5 +51,9 @@ namespace Agenda
             leCalendrier = c;
             lesContacts = ct;
         }
+
+        public Compte()
+        {
+        }
     }
 }

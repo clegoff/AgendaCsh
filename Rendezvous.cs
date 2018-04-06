@@ -24,5 +24,10 @@ namespace Agenda
             DateDebut = dd;
             DateFin = df;
         }
+
+        public Rendezvous()
+        {
+
+        }
     }
 }
