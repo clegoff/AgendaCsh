@@ -9,8 +9,8 @@ namespace Agenda
     [Serializable()]
     public class Calendrier
     {
-        private Compte compte;
-        public Compte Compte { get => compte; set => compte = value; }
+        private Compte leCompte;
+        public Compte LeCompte { get => leCompte; set => leCompte = value; }
 
         private List<Rendezvous> listeRendezVous;
         public List<Rendezvous> ListeRendezVous { get => listeRendezVous; set => listeRendezVous = value; }

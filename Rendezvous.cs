@@ -9,8 +9,8 @@ namespace Agenda
     [Serializable()]
     public class Rendezvous
     {
-        private String intitulé;
-        public string Intitulé { get => intitulé; set => intitulé = value; }
+        private String intitule;
+        public string Intitule { get => intitule; set => intitule = value; }
 
         private DateTime dateDebut;
         public DateTime DateDebut { get => dateDebut; set => dateDebut = value; }
@@ -20,7 +20,7 @@ namespace Agenda
 
         public Rendezvous(String i, DateTime dd, DateTime df)
         {
-            intitulé = i;
+            intitule = i;
             DateDebut = dd;
             DateFin = df;
         }

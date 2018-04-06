@@ -24,16 +24,32 @@ namespace Agenda
         private String tel_pro;
         public String Tel_pro { get => tel_pro; set => tel_pro = value; }
 
+        private String email;
+        public string Email { get => email; set => email = value; }
+
+        private String service;
+        public string Service { get => service; set => service = value; }
+
         private String mdp;
 
-        public Compte(int id, int n, int p, String t, String tp, String m)
-        {
+        private Calendrier leCalendrier;
+        public Calendrier LeCalendrier { get => leCalendrier; set => leCalendrier = value; }
+
+        private List<Compte> lesContacts;
+        public List<Compte> LesContacts { get => lesContacts; set => lesContacts = value; }
+
+        public Compte(int id, String n, String p, String t, String tp, String e, String s, String m, Calendrier c, List<Compte> ct)
+        {//TEST
             idCompte = id;
             nom = n;
             prenom = p;
             tel = t;
             tel_pro = tp;
+            email = e;
+            service = s;
             mdp = m;
+            leCalendrier = c;
+            lesContacts = ct;
         }
     }
 }
