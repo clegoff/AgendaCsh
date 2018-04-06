@@ -46,17 +46,14 @@ namespace Agenda
 
         }
 
-        public static void ReadXML()
+        public static List<Compte> ReadXML()
         {
             System.Xml.Serialization.XmlSerializer reader = new System.Xml.Serialization.XmlSerializer(typeof(List<Compte>));
             System.IO.StreamReader file = new System.IO.StreamReader(path);
             List<Compte> comptes = (List<Compte>)reader.Deserialize(file);
             file.Close();
 
-            foreach (Compte c in comptes)
-            {
-                Console.WriteLine(c.ToString());
-            }
+            return comptes;
         }
 
     }
